@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Code-Harlequin
 - 👀 I’m interested in reading books and playing video games
-- 🌱 I’m currently learning my first programming language python3
+- 🌱 I’m currently working on developing various Python projects and hope to work on AI ML projects in the future.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
